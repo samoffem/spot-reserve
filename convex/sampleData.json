@@ -3,7 +3,7 @@
         "name": "Davido timeless concert",
         "description": "Timeless tour concert organised by team Davido",
         "price": 5000.00,
-        "totaltickets": 500,
+        "totalTickets": 500,
         "location": "Civic center, Lagos",
         "eventDate": 17272224000000,
         "userId": "user_21Rtyu43riRtg"
@@ -12,7 +12,7 @@
         "name": "Atinuke book reading event",
         "description": "Live Reading for Atinuke new book",
         "price": 1000.00,
-        "totaltickets": 50,
+        "totalTickets": 50,
         "location": "Palace hub, Jos town",
         "eventDate": 17252226000000,
         "userId": "user_2tY8yuu7rig6Y"

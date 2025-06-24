@@ -1,9 +1,10 @@
-import Image from "next/image";
+import EventsList from "@/components/EventsList";
+
 
 export default function Home() {
   return (
     <div className="">
-      hello world
+      <EventsList />
     </div>
   );
 }
